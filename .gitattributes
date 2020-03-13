@@ -1,6 +1,1 @@
-*.c linguist-vendored=false
-*.yml linguist-language=C++ 
-*.html linguist-language=C++ 
-*.js linguist-language=C++  
-*.xml linguist-language=C++ 
-*.css linguist-language=C++
+*.c linguist-detectable=false
