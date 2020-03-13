@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Profit.cpp
+  Table.cpp
+  Generating Code...
+D:\NYU\Syllabus\Spring 2020\Big Data\FRE7831_Project_PC\Table.cpp(203): warning C4715: 'CreateTradeTable': not all control paths return a value
+  FRE7831_Project_PC.vcxproj -> D:\NYU\Syllabus\Spring 2020\Big Data\FRE7831_Project_PC\x64\Debug\FRE7831_Project_PC.exe
