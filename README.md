@@ -1,4 +1,4 @@
-# Project_Big_Data
+# Project-Pair-Trading
 
 (1) Use Libcurl to download Pair Stocks' Historical Data and store in database  
 (2) Use C++ to invoke SQL and Retrieve data from database  
